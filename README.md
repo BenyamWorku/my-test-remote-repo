@@ -1,2 +1,2 @@
 # my-test-remote-repo
-this is just a test repo
+the quick brown fox jumps over the lazy dog.
